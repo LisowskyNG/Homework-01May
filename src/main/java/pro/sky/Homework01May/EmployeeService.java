@@ -48,6 +48,6 @@ public class EmployeeService {
     }
 
     public Collection<Employee> getEmployees() {
-        return null;
+        return employees.values();
     }
 }
