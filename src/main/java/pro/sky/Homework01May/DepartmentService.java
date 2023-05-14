@@ -13,12 +13,9 @@ public class DepartmentService {
     }
 
     public Employee max(int dept) {
-        employeeService.getEmployees();
+        return (Employee) employeeService.getEmployees();
         .stream()
-                .filter
 
-
-        return null;
     }
 
 
