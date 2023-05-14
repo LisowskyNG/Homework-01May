@@ -23,7 +23,7 @@ public class EmployeeService {
         if (employees.containsKey(key)) {
             throw new  EmployeeAlreadyAddedException();
         }
-        var employee = new Employee(firstName, lastName);
+        var employee = new Employee(firstName, lastName, department, salary);
         employees.put(key, employee);
         return employee;
     }
