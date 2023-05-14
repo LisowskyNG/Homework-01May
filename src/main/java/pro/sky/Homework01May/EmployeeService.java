@@ -1,9 +1,9 @@
-package pro.sky.Homework24Apr;
+package pro.sky.Homework01May;
 
 import org.springframework.stereotype.Service;
-import pro.sky.Homework24Apr.exeption.EmployeeAlreadyAddedException;
-import pro.sky.Homework24Apr.exeption.EmployeeNotFoundException;
-import pro.sky.Homework24Apr.exeption.EmployeeStorageIsFullException;
+import pro.sky.Homework01May.exeption.EmployeeAlreadyAddedException;
+import pro.sky.Homework01May.exeption.EmployeeNotFoundException;
+import pro.sky.Homework01May.exeption.EmployeeStorageIsFullException;
 
 import java.util.ArrayList;
 import java.util.List;

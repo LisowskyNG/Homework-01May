@@ -1,4 +1,4 @@
-package pro.sky.Homework24Apr;
+package pro.sky.Homework01May;
 
 import java.util.Objects;
 

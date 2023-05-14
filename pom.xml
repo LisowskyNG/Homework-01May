@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pro.sky</groupId>
-	<artifactId>Homework-24Apr</artifactId>
+	<artifactId>Homework-01May</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Homework-24Apr</name>
 	<description>Homework</description>
