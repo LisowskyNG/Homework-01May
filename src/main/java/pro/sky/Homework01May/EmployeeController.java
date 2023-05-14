@@ -1,4 +1,4 @@
-package pro.sky.Homework24Apr;
+package pro.sky.Homework01May;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

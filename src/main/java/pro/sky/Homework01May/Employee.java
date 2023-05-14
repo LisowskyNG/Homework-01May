@@ -1,4 +1,4 @@
-package pro.sky.Homework24Apr;
+package pro.sky.Homework01May;
 
 import java.util.Objects;
 
@@ -43,6 +43,5 @@ public class Employee {
     public int hashCode() {
         return Objects.hash(firstName, lastName);
     }
-
 
 }
